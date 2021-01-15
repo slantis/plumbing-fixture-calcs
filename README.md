@@ -1,17 +1,22 @@
-# plumbing-fixture-calcs
-Dynamo routine for Plumbing Fixture Calculations (All calculations are based on 2019 California Building Code & 2019 California Plumbing Code).
+# What is this?
+Plumbing Fixtures calculations are boring and time consuming. We hope this dynamo automation will save you some time!
 
-Plumbing Fixtures calculations can be a very tedious and time consuming task. Hopefully this automation will ease your work
+All calculations are compliant with the [2019 California Building Code & 2019 California Plumbing Code](https://up.codes/codes/california).
 
-## Download
+See below a quick 5 step guide on how to use it:
 
-Downloading here both the Revit Family & Dynamo routine you can easily use with Dynamo Player
+## Prerequisites:
+- Having Revit Installed (we're on 2020)
+- Having Dynamo Installed (Version 2.3)
 
-## Plumbing Fixture Table Family
+## Download files
 
-Functional for Revit 2020.
+Download all the files from github or here
 
-This Generic Annotation Family will host and show your projects Plumbing Fixture Calculations made by the Dynamo routine.
+## Plumbing Fixture Table Family Usage
+
+Go to the Level and place the 
+
 
 ![Table Example](https://github.com/archsourcing/plumbing-fixture-calcs/blob/main/media/Table%20Example.png)
 
