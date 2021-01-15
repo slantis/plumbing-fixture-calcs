@@ -33,7 +33,7 @@ Select Edit Inputs:
 The press Play.
 The inputs should inmediatly be visble on the selected family and row.
 
-![Steps](https://github.com/archsourcing/plumbing-fixture-calcs/blob/main/media/Steps.mp4)
+![Steps](https://github.com/archsourcing/plumbing-fixture-calcs/blob/main/media/Steps.gif)
 
 
 ## Comments
