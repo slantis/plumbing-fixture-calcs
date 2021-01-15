@@ -1,4 +1,4 @@
-# plumbing-fixture-calcs
+# Plumbing Fixtures calcs
 Dynamo routine for Plumbing Fixture Calculations (All calculations are based on 2019 California Building Code & 2019 California Plumbing Code).
 
 Plumbing Fixtures calculations can be a very tedious and time consuming task. Hopefully this automation will ease your work
@@ -32,7 +32,7 @@ Select Edit Inputs:
 - Select the Row to receive the input
 - Input the Area corresponding to the occupancy type
 
-The press Play.
+Then press Play.
 The inputs should immediately be visible on the selected family and row.
 
 ![Steps](https://github.com/archsourcing/plumbing-fixture-calcs/blob/main/media/Steps.gif)
