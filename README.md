@@ -1,11 +1,11 @@
 # plumbing-fixture-calcs
-Dynamo routine for Plumbing Fixture Calculations (California Building Code with CPC tables).
+Dynamo routine for Plumbing Fixture Calculations (All calculations are based on 2019 California Building Code & 2019 California Plumbing Code).
 
 Plumbing Fixtures calculations can be a very tedious and time consuming task. Hopefully this automation will ease your work
 
 ## Download
 
-Downloding here both the Revit Family & Dynamo routine you can easly use with Dyanmo Player
+Downloading here both the Revit Family & Dynamo routine you can easily use with Dynamo Player
 
 ## Plumbing Fixture Table Family
 
@@ -17,21 +17,23 @@ This Generic Annotation Family will host and show your projects Plumbing Fixture
 
 You can insert up to 4 different Occupation types. 
 
-On Properties, scroll down to Visibily where you can choose which rows you'd like to show inforamtion. The ones unticked will show hatched.
+On Properties, scroll down to Visibility where you can choose which rows you'd like to show information. The ones unticked will show hatched.
 
 ![Table properties](https://github.com/archsourcing/plumbing-fixture-calcs/blob/main/media/Table%20properties.gif)
+
+At the bottom row you can manually input the total provided on the project to easily compare with the total required.
 
 ## Dynamo
 
 Open Dynamo Player and Select the folder where you'd located the Routine.
 Select Edit Inputs:
-- Input the occupancy type (A-1,A-2,A-3,A-4,A-5,B,E,F1,F2,M,S-1,S-2)
+- Input the occupancy type (A-1,A-2,A-3,A-4,A-5,B,E,F1,F2,M,S-1,S-2) *INSTITUTIONAL AND RESIDENTIAL OCCUPANCY TYPES NOT INCLUDED*
 - Select the Table Family
 - Select the Row to receive the input
-- Input the Area corresponding to the occuapncy type
+- Input the Area corresponding to the occupancy type
 
 The press Play.
-The inputs should inmediatly be visble on the selected family and row.
+The inputs should immediately be visible on the selected family and row.
 
 ![Steps](https://github.com/archsourcing/plumbing-fixture-calcs/blob/main/media/Steps.gif)
 
