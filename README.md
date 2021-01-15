@@ -1,7 +1,7 @@
 # plumbing-fixture-calcs
 Dynamo routine for Plumbing Fixture Calculations (California Building Code with CPC tables).
 
-Plumbing Fixtures calculations can be a very tedious adn time consuming task. Hopefully this automation will ease your work
+Plumbing Fixtures calculations can be a very tedious and time consuming task. Hopefully this automation will ease your work
 
 ## Download
 
@@ -24,8 +24,16 @@ On Properties, scroll down to Visibily where you can choose which rows you'd lik
 ## Dynamo
 
 Open Dynamo Player and Select the folder where you'd located the Routine.
+Select Edit Inputs:
+- Input the occupancy type (A-1,A-2,A-3,A-4,A-5,B,E,F1,F2,M,S-1,S-2)
+- Select the Table Family
+- Select the Row to receive the input
+- Input the Area corresponding to the occuapncy type
 
+The press Play.
+The inputs should inmediatly be visble on the selected family and row.
 
+![Steps](https://github.com/archsourcing/plumbing-fixture-calcs/blob/main/media/Steps.mp4)
 
 
 ## Comments
